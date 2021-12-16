@@ -1,5 +1,23 @@
 # Getting Started with Create React App
 
+befor run source:
+- npm install (yarn)
+
+account:
+username: studyRKHCM@gmail.com
+password: Abcd@1234
+
+Project: styudy-RK-HCM
+https://console.firebase.google.com/
+
+install firebase: npm install -g firebase-tools (by admin account)
+firebase config:
+- step 1: firebase login
+- step 2: firebase init
+- step 3: firebase deploy
+
+auto deploy: npm run deploy
+=> link web: https://styudy-rk-hcm.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
